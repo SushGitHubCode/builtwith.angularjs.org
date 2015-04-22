@@ -3604,6 +3604,21 @@
       ]
     },
     {
+  "name": "LanguageMemoryApp",  
+  "thumb": "my-app/thumb.png", 
+  "desc": "Hindi Language Memory app developed using Angular JS",  
+  "url": "http://tinyurl.com/LanguageMemoryApp", 
+  "info": "http://myapp.com/blog",  
+  "src": "http://github.com/SushGitHubCode/LanguageMemoryApp",  
+  "submitter": "SushGitHubCode", 
+  "submissionDate": "2015-04-21",  
+  "tags": [
+    "Demo",  
+    "Game"    
+     
+  ]
+}
+    {
       "name": "BeaverCoin Wheel",
       "thumb": "beavercoin-wheel/thumb.png",
       "desc": "In the BeaverCoin Wheel each user has the opportunity to win a few BeaverCoins. The spinning is completely free, and can be done once per visitor per hour.",
