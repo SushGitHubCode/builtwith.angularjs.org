@@ -1,7 +1,7 @@
 
 {
   "name": "Hindi Language Memory App", 
-  "thumb": "my-app/thumb.png", 
+  "thumb": "LanguageMemoryApp/thumb.png", 
   "desc": "This is Hindi Alphabet memory game built using AngularJS", 
   "url": "http://tinyurl.com/HindiAlphabetMemoryApp", 
   "src": "https://github.com/SushGitHubCode/LanguageMemoryApp",  
