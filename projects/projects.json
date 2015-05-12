@@ -2,18 +2,15 @@
 {
   "name": "Hindi Language Memory App", 
   "thumb": "my-app/thumb.png", 
-  "desc": "This is Hindia Alphabet memory game built using AngularJS", 
+  "desc": "This is Hindi Alphabet memory game built using AngularJS", 
   "url": "http://tinyurl.com/HindiAlphabetMemoryApp", 
-  "info": "http://myapp.com/blog",  
   "src": "https://github.com/SushGitHubCode/LanguageMemoryApp",  
   "submitter": "Sushila Patel",  
   "submissionDate": "2015-04-24", 
   "tags": [
-    "Demo"   ,
-    "Game" ,  
-     
-    "Open Source",  
-     
+    "Demo",
+    "Game", 
+    "Open Source"
   ]
 }
 
